@@ -20,3 +20,4 @@ The rules of it is a little different from the classic one: The generated blocks
 You don't have to worry about if your score has recorded, because we will do that when you start a new game or use the key "esc" to exit the game.
 
 Hope you like it!
+<img width="326" height="248" alt="9b613501-a03b-4240-ad4c-46ad93cba472" src="https://github.com/user-attachments/assets/3b9a2611-71b3-475e-bd30-a95436b97214" />
